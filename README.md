@@ -9,4 +9,5 @@ It Uses-
   
 Steps to run-
   1. Open command promt and navigate to app root folder
-  2. Type npm run start
+  2. Type npm install (to install all the dependencies)
+  3. Type npm run start
