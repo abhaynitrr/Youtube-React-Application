@@ -1,6 +1,6 @@
 # Youtube-React-Application
 
-This is a basic youtube api applicaiton built upon react framework 16.6.0
+This is a basic youtube api applicaiton built upon React framework 16.6.0
 
 It Uses-
   1. Webpack 4 as a module bundler
