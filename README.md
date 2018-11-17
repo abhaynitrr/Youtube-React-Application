@@ -11,3 +11,8 @@ Steps to run-
   1. Open command promt and navigate to app root folder
   2. Type npm install (to install all the dependencies)
   3. Type npm run start
+
+
+  
+## Application Snap  
+![alt text](https://github.com/abhaynitrr/Youtube-React-Application/blob/master/src/images/toolsnap.PNG)
